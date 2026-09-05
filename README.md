@@ -8,4 +8,4 @@ BINGO_the game
 ## main.js at script
 
 
-### @ ashraf please create a different branch to write your code
+### @ Chinmay please create a different branch to write your code
